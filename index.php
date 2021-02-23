@@ -238,7 +238,7 @@
                             Software Engineer
                         </small>
                         <div>
-                            <a href="https://www.linkedin.com/in/roy-catimbang"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                            <a href="https://www.linkedin.com/in/roy-catimbang"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn" target="_blank"></a>
                         </div>
                     </div>
                 </div>
@@ -261,7 +261,7 @@
                                 Software Engineer
                             </small>
                             <div>
-                                <a href="https://www.linkedin.com/in/kevin-jay-roluna-61b060a7"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                                <a href="https://www.linkedin.com/in/kevin-jay-roluna-61b060a7"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn" target="_blank"></a>
                             </div>
                     </div>
                 </div>
@@ -284,7 +284,7 @@
                                 Software Engineer
                             </small>
                             <div>
-                                <a href="https://www.linkedin.com/in/jeffrybordeos"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                                <a href="https://www.linkedin.com/in/jeffrybordeos"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn" target="_blank"></a>
                             </div>
                     </div>
                 </div>
@@ -307,7 +307,7 @@
                                 Software Engineer
                             </small>
                             <div>
-                                <a href="https://www.linkedin.com/in/jpcanamaque"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                                <a href="https://www.linkedin.com/in/jpcanamaque"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn" target="_blank"></a>
                             </div>
                     </div>
                 </div>
