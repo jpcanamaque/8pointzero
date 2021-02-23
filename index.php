@@ -246,17 +246,18 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/mbr-240x320.jpg" alt="" title="">
+                            <img src="assets/images/kevin-avatar.png" alt="" title="">
                         </div>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae.
+                                Kevin is a Software Engineer with experience in different industries including Manufacturing, IT, Web Marketing, Retail and Merchandise.
+                                His skills are focused in web particularly in PHP and javascript frameworks.
                         </p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
-                             KR</div>
+                                Kevin</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                               Developer
+                                Developer
                         </small>
                     </div>
                 </div>
@@ -266,17 +267,18 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/mbr-240x242.jpg" alt="" title="">
+                            <img src="assets/images/jeff-avatar.png" alt="" title="">
                         </div>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae.
+                            Jeff is a Software Engineer with experience in different industries including Manufacturing, IT, Web Marketing, Retail and Merchandise.
+                            His skills are focused in web particularly in PHP and javascript frameworks.
                         </p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
-                             JB</div>
+                            Jeff</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                               Developer
+                            Developer
                         </small>
                     </div>
                 </div>
@@ -286,16 +288,17 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/mbr-240x292.jpg" alt="" title="">
+                            <img src="assets/images/jay-avatar.png" alt="" title="">
                         </div>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae.
+                            Jay is a software engineer focused on web/desktop applications for business systems and also provide support and maintenance for applications.
+                            Skills focused particularly in .Net Frameworks.
                         </p>
                     </div>
                     <div class="card-footer">
-                        <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">JS</div>
+                        <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Jay</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                               Developer
+                            Developer
                         </small>
                     </div>
                 </div>
@@ -305,17 +308,18 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/mbr-240x175.jpg" alt="" title="">
+                            <img src="assets/images/vj-avatar.png" alt="" title="">
                         </div>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae.
+                            VJ is a Software Engineer with experience in different industries including Manufacturing, IT, Web Marketing, Retail and Merchandise.
+                            His skills are focused in web particularly in PHP and javascript frameworks.
                         </p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
-                             VM</div>
+                            VJ</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                               Developer
+                            Developer
                         </small>
                     </div>
                 </div>
