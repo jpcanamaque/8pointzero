@@ -230,7 +230,7 @@
                         </div>
                     </div>
                     <div class="card-footer">
-                        <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Roy sample update</div>
+                        <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Roy</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
                             Founder
                         </small>
