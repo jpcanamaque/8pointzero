@@ -228,16 +228,18 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/roy-avatar.png" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Roy is a Software Engineer with experience in different industries including Manufacturing, IT, Web Marketing, Retail and Merchandise.
-                            His skills are focused in web particularly in PHP and javascript frameworks.
-                        </p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Roy</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                               Developer
+                            Founder
                         </small>
+                        <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
+                            Software Engineer
+                        </small>
+                        <div>
+                            <a href="https://www.linkedin.com/in/roy-catimbang"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -248,17 +250,19 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/kevin-avatar.png" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                                Kevin is a Software Engineer with experience in different industries including Manufacturing, IT, Web Marketing, Retail and Merchandise.
-                                His skills are focused in web particularly in PHP and javascript frameworks.
-                        </p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
-                                Kevin</div>
-                        <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                                Developer
-                        </small>
+                            Kevin</div>
+                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
+                                Founder
+                            </small>
+                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
+                                Software Engineer
+                            </small>
+                            <div>
+                                <a href="https://www.linkedin.com/in/kevin-jay-roluna-61b060a7"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                            </div>
                     </div>
                 </div>
             </div>
@@ -269,17 +273,19 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/jeff-avatar.png" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Jeff is a Software Engineer with experience in different industries including Manufacturing, IT, Web Marketing, Retail and Merchandise.
-                            His skills are focused in web particularly in PHP and javascript frameworks.
-                        </p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
                             Jeff</div>
-                        <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                            Developer
-                        </small>
+                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
+                                Founder
+                            </small>
+                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
+                                Software Engineer
+                            </small>
+                            <div>
+                                <a href="https://www.linkedin.com/in/jeffrybordeos"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                            </div>
                     </div>
                 </div>
             </div>
@@ -288,39 +294,21 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/jay-avatar.png" alt="" title="">
+                            <img src="assets/images/pau-avatar.png" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Jay is a software engineer focused on web/desktop applications for business systems and also provide support and maintenance for applications.
-                            Skills focused particularly in .Net Frameworks.
-                        </p>
-                    </div>
-                    <div class="card-footer">
-                        <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Jay</div>
-                        <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                            Developer
-                        </small>
-                    </div>
-                </div>
-            </div>
-
-            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                <div class="panel-item p-3">
-                    <div class="card-block">
-                        <div class="testimonial-photo">
-                            <img src="assets/images/vj-avatar.png" alt="" title="">
-                        </div>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            VJ is a Software Engineer with experience in different industries including Manufacturing, IT, Web Marketing, Retail and Merchandise.
-                            His skills are focused in web particularly in PHP and javascript frameworks.
-                        </p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
-                            VJ</div>
-                        <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
-                            Developer
-                        </small>
+                            Paulo</div>
+                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
+                                Founder
+                            </small>
+                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">
+                                Software Engineer
+                            </small>
+                            <div>
+                                <a href="https://www.linkedin.com/in/jpcanamaque"><img src="assets/images/linkedin-btn.png" alt="" title="" class="linkedin-btn"></a>
+                            </div>
                     </div>
                 </div>
             </div>
