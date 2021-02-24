@@ -222,7 +222,7 @@
 
     <div class="container pt-3 mt-2">
         <div class="media-container-row">
-            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
+            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-3">
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
@@ -244,7 +244,7 @@
                 </div>
             </div>
 
-            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
+            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-3">
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
@@ -267,7 +267,7 @@
                 </div>
             </div>
 
-            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
+            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-3">
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
@@ -290,7 +290,7 @@
                 </div>
             </div>
 
-            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
+            <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-3">
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
@@ -426,6 +426,31 @@
                 </a>
             </div>
         </div>
+    </div>
+</section>
+<section class="testimonials3 cid-rzWnozncH6" style="text-align: center !important;width: 100% !important">
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 align-center">
+                <h2 class="pb-3 mbr-fonts-style display-2">
+                    JOB HIRING</h2>
+                <h3 class="mbr-section-subtitle mbr-light pb-3 mbr-fonts-style display-5"></h3>
+            </div>
+        </div>
+    </div>
+    <div>
+        <table class="table table-dark" style="width: 100%">
+          <thead>
+            <tr>
+              <th scope="col">Position</th>
+
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">SOFTWARE ENGINEER</th>
+
+            </tr>
+        </table>
     </div>
 </section>
 <section class="cid-rzWon319XC" id="footer1-i">
