@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="../152744027_256412179395228_5340626683746836118_n.png" rel="icon">
+  <link href="assets/img/8pzlogo.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -42,7 +42,7 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-lg-between">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html"><img src="../152744027_256412179395228_5340626683746836118_n.png"></a><span style="color: #fff !important;font-size: 1.5rem">POINT</span><b><spans style="color: #fff !important">ZERO</span></b></h1>
+      <h1 class="logo me-auto me-lg-0"><a href="index.html"><img src="assets/img/8pzlogo.png"></a><span style="color: #fff !important;font-size: 1.5rem">POINT</span><b><spans style="color: #fff !important">ZERO</span></b></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -740,7 +740,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3><img src="../152744027_256412179395228_5340626683746836118_n.png"></a><span style="color: #fff !important;font-size: 1.5rem">POINT</span><b><spans style="color: #fff !important">ZERO</span></b></h3>
+              <h3><img src="assets/img/8pzlogo.png"></a><span style="color: #fff !important;font-size: 1.5rem">POINT</span><b><spans style="color: #fff !important">ZERO</span></b></h3>
               <p>
                 Cavite <br>
                 Philippines<br><br>
