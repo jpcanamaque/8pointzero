@@ -561,7 +561,7 @@
           <div class="col-lg-3 col-md-6 align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img" style="text-align:center">
-                <img src="../assets/images/roy-avatar.png" class="img-fluid" alt="">
+                <img src="assets/img/roy-avatar.png" class="img-fluid" alt="">
                 <div class="social">
                  <!--  <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -585,7 +585,7 @@
           <div class="col-lg-3 col-md-6 align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img" style="text-align:center">
-                <img src="../assets/images/kevin-avatar.png" class="img-fluid" alt="">
+                <img src="assets/img/kevin-avatar.png" class="img-fluid" alt="">
                 <div class="social">
                  <!--  <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -609,7 +609,7 @@
           <div class="col-lg-3 col-md-6 align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img" style="text-align:center">
-                <img src="../assets/images/jeff-avatar.png" class="img-fluid" alt="">
+                <img src="assets/img/jeff-avatar.png" class="img-fluid" alt="">
                 <div class="social">
                  <!--  <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -633,7 +633,7 @@
           <div class="col-lg-3 col-md-6 align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img" style="text-align:center">
-                <img src="../assets/images/pau-avatar.png" class="img-fluid" alt="">
+                <img src="assets/img/pau-avatar.png" class="img-fluid" alt="">
                 <div class="social">
                  <!--  <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
