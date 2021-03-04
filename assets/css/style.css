@@ -1089,6 +1089,10 @@ section {
   opacity: 1;
 }
 
+#testimonials {
+  display: none;
+}
+
 @media (min-width: 1024px) {
   .testimonials {
     background-attachment: fixed;
