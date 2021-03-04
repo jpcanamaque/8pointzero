@@ -1531,6 +1531,6 @@ section {
   color: #fff;
 }
 
-#testimonials, portfolio, counts, cta {
+#testimonials, #portfolio, #counts, #cta {
   display: none;
 }
