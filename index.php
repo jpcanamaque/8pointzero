@@ -131,7 +131,7 @@ mail($to, $subject, $message, implode("\r\n", $headers));
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
           <h1>Powerful Digital Solutions With 8PointZero<span>.</span></h1>
-          <h2>We are team of talented digital marketers</h2>
+          <h2>Hire Remote Developers and IT Staff</h2>
         </div>
       </div>
 
@@ -139,31 +139,31 @@ mail($to, $subject, $message, implode("\r\n", $headers));
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-store-line"></i>
-            <h3><a href="">Lorem Ipsum</a></h3>
+            <h3>Lorem Ipsum</h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="">Dolor Sitema</a></h3>
+            <h3>Dolor Sitema</h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-calendar-todo-line"></i>
-            <h3><a href="">Sedare Perspiciatis</a></h3>
+            <h3>Sedare Perspiciatis</h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-paint-brush-line"></i>
-            <h3><a href="">Magni Dolores</a></h3>
+            <h3>Magni Dolores</h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-database-2-line"></i>
-            <h3><a href="">Nemos Enimade</a></h3>
+            <h3>Nemos Enimade</h3>
           </div>
         </div>
       </div>
@@ -259,7 +259,7 @@ mail($to, $subject, $message, implode("\r\n", $headers));
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">SOFTWARE DEVELOPMENT</a></h4>
+              <h4><a href="">SOFTWARE DEVELOPERS</a></h4>
               <p>As one of our specialties, we do customized systems based on what you want and what you really need.</p>
             </div>
           </div>
@@ -267,7 +267,7 @@ mail($to, $subject, $message, implode("\r\n", $headers));
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">WEBSITE DEVELOPMENT</a></h4>
+              <h4><a href="">WEBSITE DEVELOPERS</a></h4>
               <p>Our team provides modern, appealing and highly-functional websites that will really connect you to your customers.</p>
             </div>
           </div>
@@ -275,7 +275,7 @@ mail($to, $subject, $message, implode("\r\n", $headers));
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">MOBILE APP DEVELOPMENT</a></h4>
+              <h4><a href="">MOBILE APP DEVELOPERS</a></h4>
               <p>Adopting to the fast-phased mobile technologies, we offer high quality IOS and Android mobile development.</p>
             </div>
           </div>
@@ -283,7 +283,7 @@ mail($to, $subject, $message, implode("\r\n", $headers));
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">API DEVELOPMENT</a></h4>
+              <h4><a href="">API/BACKEND DEVELOPERS</a></h4>
               <p>We have a rich experience of developing and integrating APIs for a wide range of our clients' software applications.</p>
             </div>
           </div>
@@ -713,7 +713,7 @@ mail($to, $subject, $message, implode("\r\n", $headers));
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d130985.14796358463!2d120.96318058871562!3d14.453224917023752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d5006c962a1f%3A0xc19e614c3002241!2sR-2%2C%20Dasmari%C3%B1as%2C%20Cavite!5e0!3m2!1sen!2sph!4v1614839121998!5m2!1sen!2sph" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="row mt-5">

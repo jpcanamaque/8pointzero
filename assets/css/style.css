@@ -1530,3 +1530,7 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+#testimonials, #portfolio, #counts, #cta {
+  display: none;
+}
