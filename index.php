@@ -215,7 +215,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">SOFTWARE DEVELOPMENT</a></h4>
+              <h4><a href="">SOFTWARE DEVELOPERS</a></h4>
               <p>As one of our specialties, we do customized systems based on what you want and what you really need.</p>
             </div>
           </div>
@@ -223,7 +223,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">WEBSITE DEVELOPMENT</a></h4>
+              <h4><a href="">WEBSITE DEVELOPERS</a></h4>
               <p>Our team provides modern, appealing and highly-functional websites that will really connect you to your customers.</p>
             </div>
           </div>
@@ -231,7 +231,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">MOBILE APP DEVELOPMENT</a></h4>
+              <h4><a href="">MOBILE APP DEVELOPERS</a></h4>
               <p>Adopting to the fast-phased mobile technologies, we offer high quality IOS and Android mobile development.</p>
             </div>
           </div>
@@ -239,7 +239,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">API DEVELOPMENT</a></h4>
+              <h4><a href="">API/BACKEND DEVELOPERS</a></h4>
               <p>We have a rich experience of developing and integrating APIs for a wide range of our clients' software applications.</p>
             </div>
           </div>
@@ -669,7 +669,7 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d130985.14796358463!2d120.96318058871562!3d14.453224917023752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d5006c962a1f%3A0xc19e614c3002241!2sR-2%2C%20Dasmari%C3%B1as%2C%20Cavite!5e0!3m2!1sen!2sph!4v1614839000025!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
 
         <div class="row mt-5">
