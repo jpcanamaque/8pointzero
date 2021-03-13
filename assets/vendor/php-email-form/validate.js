@@ -58,14 +58,17 @@
     .then(response => {
       console.log(response);
       if( response.ok ) {
+        console.log('response.ok', response.text());
         return response.text()
       } else {
+        console.log('err');
         throw new Error(`${response.status} ${response.statusText} ${response.url}`); 
       }
     })
     .then(data => {
       thisForm.querySelector('.loading').classList.remove('d-block');
       if (data.trim() == 'OK') {
+        console.log('datatrim.ok', data.trim());
         thisForm.querySelector('.sent-message').classList.add('d-block');
         thisForm.reset(); 
       } else {
@@ -73,6 +76,7 @@
       }
     })
     .catch((error) => {
+      console.log('catch', error);
       displayError(thisForm, error);
     });
   }
