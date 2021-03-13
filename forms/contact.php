@@ -47,9 +47,9 @@ $email->addContent(
 $sendgrid = new \SendGrid(getenv('SENDGRID_API_KEY'));
 try {
     $response = $sendgrid->send($email);
-    print $response->statusCode() . "\n";
-    print_r($response->headers());
-    print $response->body() . "\n";
+    if ($response->statusCode() == '202') {
+      echo 'We received your message, we will contact you back in your provided email as soon as possible. Thank you.';
+    }
 } catch (Exception $e) {
     echo 'Caught exception: '. $e->getMessage() ."\n";
 }
