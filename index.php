@@ -718,7 +718,7 @@
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">We received your message, we will contact you back in your provided email as soon as possible. Thank you.</div>
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>

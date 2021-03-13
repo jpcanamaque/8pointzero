@@ -28,7 +28,7 @@ $sendgrid = new \SendGrid(getenv('SENDGRID_API_KEY'));
 try {
     $response = $sendgrid->send($email);
     if ($response->statusCode() == '202') {
-      echo json_encode(["text"=> "We received your message, we will contact you back in your provided email as soon as possible. Thank you."]);
+      echo 'OK';
     }
 } catch (Exception $e) {
     echo 'Caught exception: '. $e->getMessage() ."\n";
