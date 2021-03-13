@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php'; // If you're using Composer (recommended)
+require '../vendor/autoload.php'; // If you're using Composer (recommended)
 
 var_dump('done autoload');
 $email = new \SendGrid\Mail\Mail(); 
