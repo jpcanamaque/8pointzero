@@ -1,6 +1,7 @@
 <?php
 require 'vendor/autoload.php'; // If you're using Composer (recommended)
 
+var_dump('done autoload');
 $email = new \SendGrid\Mail\Mail(); 
 $email->setFrom("8pointzero@gmail.com", "Eight Point Zero");
 $email->setSubject("Sending with SendGrid is Fun");
