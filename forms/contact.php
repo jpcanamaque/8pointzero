@@ -20,9 +20,7 @@
 //     echo 'Caught exception: '. $e->getMessage() ."\n";
 // }
 
-// require '../vendor/autoload.php'; // If you're using Composer (recommended)
-
-// var_dump('done autoload');
+require '../vendor/autoload.php'; // If you're using Composer (recommended)
 
 $email = new \SendGrid\Mail\Mail(); 
 $email->setFrom("8pointzerotech@gmail.com", "Eight Point Zero");
