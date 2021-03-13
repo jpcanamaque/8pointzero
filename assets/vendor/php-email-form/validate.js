@@ -59,12 +59,10 @@
       if( response.ok ) {
         return response.text()
       } else {
-        console.log('err');
         throw new Error(`${response.status} ${response.statusText} ${response.url}`); 
       }
     })
     .then(data => {
-      console.log(data);
       thisForm.querySelector('.loading').classList.remove('d-block');
       if (data.trim() == 'OK') {
         thisForm.querySelector('.sent-message').classList.add('d-block');
@@ -74,7 +72,6 @@
       }
     })
     .catch((error) => {
-      console.log('catch', error);
       displayError(thisForm, error);
     });
   }
